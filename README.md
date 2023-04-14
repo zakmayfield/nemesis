@@ -1,4 +1,4 @@
-# Python Playground
+# 🐍 Python Playground
 
 ## Why this repo exists.
 
