@@ -23,6 +23,7 @@
 temp = 27
 
 try:
+    # we pull this into a try because float might throw if temp != convertable int.
     fahr = float(temp)
     cell = (fahr - 32.0) * 5.0 / 9.0
     
